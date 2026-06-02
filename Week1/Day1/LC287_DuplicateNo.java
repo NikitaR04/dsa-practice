@@ -1,4 +1,4 @@
-package Day1;
+
 /**287. Find the Duplicate Number
 Solved
 Medium

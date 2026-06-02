@@ -1,4 +1,4 @@
-package Day1;
+
 /**
  Second Largest Element in Array
 Problem:

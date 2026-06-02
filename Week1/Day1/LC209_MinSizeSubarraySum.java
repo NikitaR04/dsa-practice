@@ -1,4 +1,4 @@
-package Day1;
+
 /**
  209. Minimum Size Subarray Sum
 Medium
